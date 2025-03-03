@@ -1,4 +1,4 @@
-# AI_Product_Selection_Asistant
+# AI Product Selection Assistant
 
 This is an AI agent built by my for cross-boarder E-commerce product selection.
 
